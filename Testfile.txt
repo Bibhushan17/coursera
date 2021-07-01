@@ -1,1 +1,2 @@
-Configuring Git
+Configuring Git.
+Some data might be changed.
