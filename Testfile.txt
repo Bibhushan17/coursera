@@ -1,2 +1,21 @@
-Configuring Git.
-Some data might be changed.
+SOME COMMANDS TO CONFIGURE GIT AND UPLOAD FILE IN GIT: 
+
+cd 
+cd /c
+LS
+cd directory name
+git config --global user.name "Bibhushan17"
+git config --global user.email abc@gmail.com //use your mail at last
+git clone https://github.com/Username/respository name.git
+ls
+git status
+git commit -m "Message of commit" Testfile.txt
+git push -u origin master
+
+/////
+git add index.html
+git commit -m index.html
+git push -u origin master
+
+
+------------------------ENJOY----------------------------------
